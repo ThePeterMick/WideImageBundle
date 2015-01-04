@@ -98,7 +98,7 @@ Just download the files and put them under `vendor/wideimage` directory.
 
 ## Configure the Autoloader
 
-Add the `Geshi_` prefix to your autoloader (not required if you have used composer to install this bundle):
+Add the `WideImage_` prefix to your autoloader (not required if you have used composer to install this bundle):
 
 ``` php
 <?php
